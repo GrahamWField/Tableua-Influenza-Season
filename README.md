@@ -47,7 +47,6 @@ Download Data Set
 NOTE: keep in mind that these numbers are estimates, hence the sum of the 
 numbers from the different age groups may not sum up to the total in the first 
 columns, but that’s totally okay. 
-Page 3
 
 5. Counts of influenza laboratory test results by state (survey) 
 Source: CDC (Fluview) 
