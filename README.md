@@ -19,7 +19,7 @@ You’ll find the requirements for your project below. These requirements are wh
 approach to the analysis. While this project will use data from healthcare, the steps and framework 
 involved can be used for projects in any domain.  
 ```
-# Analysis Criteria
+Analysis Criteria
 
 ● You must explain what cleaning you conduct on the data. 
 ● You must select and integrate at least two relevant data sets from different sources. 
